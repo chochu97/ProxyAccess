@@ -1,0 +1,9 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ProxyApp\bin\Debug\ProxyApp.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ProxyApp\bin\Debug\ProxyApp.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ProxyApp\bin\Debug\ExistingApp.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ProxyApp\bin\Debug\ExistingApp.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ProxyApp\obj\Debug\ProxyApp.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ProxyApp\obj\Debug\ProxyApp.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ProxyApp\obj\Debug\ProxyApp.csproj.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ProxyApp\obj\Debug\ProxyApp.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ProxyApp\obj\Debug\ProxyApp.pdb

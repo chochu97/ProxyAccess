@@ -1,0 +1,6 @@
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ExistingApp\bin\Debug\ExistingApp.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ExistingApp\bin\Debug\ExistingApp.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ExistingApp\obj\Debug\ExistingApp.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ExistingApp\obj\Debug\ExistingApp.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ExistingApp\obj\Debug\ExistingApp.dll
+C:\Users\nicok\source\repos\Programacion\Console\Patrones\ProxyPatron\ProxyAccess\ExistingApp\obj\Debug\ExistingApp.pdb
